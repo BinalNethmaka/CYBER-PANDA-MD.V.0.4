@@ -21,15 +21,15 @@ global.prefa = ["."];                                    //Default prefix here. 
 
 
 //
-global.Owner = ["+94704274987", "+94704274987"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.OwnerNumber = ["+94704274987", "+94704274987"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.Owner = ["+94775179982", "+94775179982"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.OwnerNumber = ["+94775179982", "+94775179982"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
 global.ownertag = ["+94704274987"];
-global.OwnerName = "SACHITH";
-global.BotName = "SACHITH";
-global.packname = "🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋";                             //Do not change.
-global.author = "SACHITH";                               //Do not change.
+global.OwnerName = "BINAL";
+global.BotName = "乡𝑅ᴀᴋ⃛ᴜᴢᴀ ⥹ 𝐵ᴏᴛ ";
+global.packname = "";                             //Do not change.
+global.author = "SACHTH-MD";                               //Do not change.
 global.BotSourceCode = "https://github.com/Kai00"; //Do not change.
-global.SupportGroupLink = "https://chat.whatsapp.com/GhRGdwfaMVDCoeAdzILfl";
+global.SupportGroupLink = "https://chat.whatsapp.com/JVsgvzeeI8I9Gr8ujT35xH";
 
 
 //
@@ -46,14 +46,14 @@ global.reactmoji = "💞";
 global.themeemoji = "😂";
 global.vidmenu = { url: 'https://tenor.com/en-CA/view/anonymous-hacker-smooth-gif-10171911193797826570%9D%90%95-12-14' };
 global.websitex = "https://github.com/CYBER-x-SACHIYA-SL-MD-BOT/CYBER-PANDA-MD.V.0.4";
-global.lolhuman = "Sachith";
+global.lolhuman = "Binal";
 
 
 //
-global.BotLogo = fs.readFileSync("./Assets/pic1.jpg");
-global.Thumb = fs.readFileSync("./Assets/pic9.jpg");
-global.Thumb1 = fs.readFileSync("./Assets/pic5.jpg");
-global.ErrorPic = fs.readFileSync("./Assets/pic7.jpg");
+global.BotLogo = fs.readFileSync(".");
+global.Thumb = fs.readFileSync(".");
+global.Thumb1 = fs.readFileSync(".");
+global.ErrorPic = fs.readFileSync(".");
 
 
 //
